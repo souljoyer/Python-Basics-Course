@@ -1,4 +1,3 @@
-from modules import functions
 import FreeSimpleGUI as sg
 
 label = sg.Text("Напишіть задачу:")
